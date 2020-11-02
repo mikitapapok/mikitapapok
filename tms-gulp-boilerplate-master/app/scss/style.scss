@@ -1,0 +1,77 @@
+@import "helpers/variables";
+@import "helpers/mixins";
+@import "helpers/media-queries";
+
+
+@import "layout/header";
+@import "layout/navigation";
+@import "layout/footer";
+@import "layout/shift";
+@import "layout/search-form";
+@import "layout/radio-form";
+
+
+@import "vendors/normalize";
+
+
+@import "base/fonts";
+@import "base/base";
+
+
+@import "components/button";
+@import "components/open-section__title";
+@import "components/images";
+@import "components/product-card";
+@import "components/color-button";
+@import "components/size-button";
+@import "components/page-button";
+@import "components/menu-section";
+@import "components/radio-form";
+@import "components/filter-section";
+@import "components/checkbox-form";
+@import "components/check-box";
+@import "components/sort-section";
+@import "components/sort-button";
+@import "components/s-p-shopping-section-navigation";
+@import "components/navigation-button";
+@import "components/f-p-product-inf";
+@import "components/f-p-page-button";
+@import "components/f-p-menu-section.scss";
+
+@import "pages/main/main";
+@import "pages/main/present-section.scss";
+@import "pages/main/p-m-open-section";
+@import "pages/main/p-m-category-product-section";
+@import "pages/main/p-m-featured-product-section";
+@import "pages/main/p-m-latest-product";
+@import "pages/main/our-block";
+@import "pages/main/shop-on-instagram";
+@import "pages/fourth-page/fourth-page.scss";
+@import "pages/fourth-page/f-p-main-section.scss";
+@import "pages/fourth-page/image-filter";
+@import "pages/fourth-page/f-p-product-inf-image-block__main-image";
+@import "pages/fourth-page/f-p-product-inf-image-block-mini";
+@import "pages/fourth-page/f-p-product-inf-image-block";
+@import "pages/fourth-page/f-p-product-inf-description-block";
+@import "pages/fourth-page/f-p-shopping-section-category";
+@import "pages/fourth-page/f-p-share-product-section";
+@import "pages/fourth-page/f-p-discription-section";
+@import "pages/fourth-page/f-p-other-product-section";
+@import "pages/second/sort-section";
+
+
+@import "pages/second/second-page";
+@import "pages/second/s-p-main";
+@import "pages/second/s-p-shopping-section";
+@import "pages/second/s-p-shopping-section-sidebar";
+@import "pages/second/s-p-shopping-section-product";
+@import "pages/second/s-p-shopping-section-category";
+@import "pages/second/s-p-brand-section";
+@import "pages/second/_s-p-shopping-section-product-cards.scss";
+
+
+
+
+
+
+
